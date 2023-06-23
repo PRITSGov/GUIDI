@@ -9,3 +9,7 @@ Cada módulo está diseñado para funcionar como una pieza independiente, pero a
 Estas guías estarán en constante revisión para así proveer nuevos módulos y mejorar los existentes solucionando cada una de las necesidades del cuidadano a la hora de utilizar el portal diseñado.
 
 GUIDI ha sido diseñado siguiendo las Guías de Accesibilidad de la Ley 229 para páginas web de Agencias del Gobierno de Puerto Rico, siguiendo los parámetros de tamaños de letras, contrastes, legibilidad e interpretación de lectores de pantallas.
+
+** Importante utilizar todos los elementos necesarios para crear tu proyecto con este GUIDI Template **
+
+Para crear tu proyecto, necesitarás utilizar algunos elementos clave, como el archivo CSS y el archivo de JavaScript. Estos archivos desempeñan un papel importante en la apariencia y funcionalidad de tu proyecto.
