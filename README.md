@@ -13,3 +13,5 @@ GUIDI ha sido diseñado siguiendo las Guías de Accesibilidad de la Ley 229 para
 ** Importante utilizar todos los elementos necesarios para crear tu proyecto con este GUIDI Template **
 
 Para crear tu proyecto, necesitarás utilizar algunos elementos clave, como el archivo CSS y el archivo de JavaScript. Estos archivos desempeñan un papel importante en la apariencia y funcionalidad de tu proyecto.
+
+<b>OJO: Los portales oficiales del Gobierno de Puerto Rico terminan en .pr.gov</b>
