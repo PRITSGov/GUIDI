@@ -1,7 +1,6 @@
 # GUIDI
 Guías de Interfaz y Diseño del Gobierno de Puerto Rico
 
-Guías de Interface y Diseño
 PRITS ha desarrollado un sistema de módulos para ser utilizado, tanto internamente como por recursos externos, como el estándar en el diseño y estructuración de todo portal del Gobierno de Puerto Rico.
 
 Cada módulo está diseñado para funcionar como una pieza independiente, pero a su vez tienen la capacidad de formar parte de un conjunto de módulos más complejo, así ampliando las posibilidades a la hora de diseñar y estructurar cada portal. Esto permite que las combinaciones entre módulos tengan variaciones ilimitadas, lo que ayuda a cubrir las necesidades de cada agencia u oficina de manera creativa e independiente, pero manteniéndose bajo los parámetros que definen cómo se deben diseñar los portales del Gobierno de Puerto Rico.
@@ -15,3 +14,4 @@ GUIDI ha sido diseñado siguiendo las Guías de Accesibilidad de la Ley 229 para
 Para crear tu proyecto, necesitarás utilizar algunos elementos clave, como el archivo CSS y el archivo de JavaScript. Estos archivos desempeñan un papel importante en la apariencia y funcionalidad de tu proyecto.
 
 <b>OJO: Los portales oficiales del Gobierno de Puerto Rico terminan en .pr.gov</b>
+<img src="https://assets-global.website-files.com/606ce22566af383df2754cf8/62d858220c169731a61c22e8_GUIDI-Mockup.png" border="0">
